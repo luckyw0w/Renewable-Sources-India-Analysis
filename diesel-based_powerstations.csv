@@ -1,0 +1,23 @@
+Power station,Operator,Location,District,State,Sector,Region,Units,Capacity(MW),Coordinates
+Kozhikode Diesel Power Station,KSEB,Kozhikode,Kozhikode,Kerala,State,Southern,"2 x 16$, 6 x 16.00",96,X / 11.205755250409878°N 75.80685498465728°E
+Yelahanka Diesel Power Station,KPCL,Yelahanka,Bangalore,Karnataka,State,Southern,6 x 21.32,127.92,X / 13.11672408991181°N 77.58308454452506°E
+Brahmapuram Diesel Power Plant,KSEB,Brahmapuram,,Kerala,State,Southern,"2 x 21.32$, 3 x 21.32",64,X / 9.997462895537335°N 76.37320849954907°E
+LVS Power Station,Greenko,Vishakhapatnam,,Andhra Pradesh,Private,Southern,1 x 36.8,36.8,
+Samalpatti Diesel Power Station,,Samalpatti,,Tamil Nadu,Private,Southern,,105.7,X / 13.05826904192783°N 80.2447908391951°E
+Samayanallur Diesel Power Station,,Samayanallur,,Tamil Nadu,Private,Southern,,106,X / 9.927427458791701°N 78.11715065346671°E
+Bellary Power Station,,Bellary,,Karnataka,Private,Southern,,25.2,
+Suryachakra Diesel Power Station,SPCL,A & N,,Andaman & Nicobar,Private,Islands,,20,
+Islands,,,,,,1,,20,
+Bemina Diesel Power Station,J&K Govt,Bemina,Srinagar,Jammu and Kashmir,State,Northern,1 x 5,5,
+Leh Diesel Power Station,J&K Govt,Leh,Leh,Ladakh,State,Northern,1 x 2.18,2.18,
+Ambala Diesel Power Station,Haryana Govt,Ambala,Ambala,Haryana,State,Northern,1 x 2.18,2.18,
+Upper Sindh Diesel Power Station,J&K Govt,,,Jammu and Kashmir,State,Northern,1 x 1.7,1.7,
+Keylong Diesel Power Station,HP Govt,Keylong,Lahaul and Spiti,Himachal Pradesh,State,Northern,1 x 0.13,0.13,
+Kamah Diesel Power Station,J&K Govt,,,Jammu and Kashmir,State,Northern,1 x 0.06,0.06,
+Northern,,,,,,6,6,11.25,
+Gangtok Diesel Power Station,Sikkim Govt,Gangtok,East Sikkim,Sikkim,State,Eastern,,4,
+Ranipool Diesel Power Station,Sikkim Govt,Ranipool,East Sikkim,Sikkim,State,Eastern,,1,
+Eastern,,,,,,2,,5,
+Leimakhong Diesel Power Station,,Leimakhong,,Manipur,State,North Eastern,,36,
+North Eastern,,,,,,1,,36,
+Total,,,,,,19,,666.39,
